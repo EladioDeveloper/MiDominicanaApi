@@ -5,10 +5,8 @@ using System.Threading.Tasks;
 
 namespace MiDominicanaApi.Models
 {
-    public class Fuel
+    public class SectionUrlPage
     {
-        public string Name { get; set; }
-        public ushort Price { get; set; }
-        public string Date { get; set; }
+        public string Url { get; set; }
     }
 }

@@ -11,6 +11,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.OpenApi.Models;
+using MiDominicanaApi.Models;
+using MiDominicanaApi.Services;
 
 namespace MiDominicanaApi
 {
@@ -26,6 +28,10 @@ namespace MiDominicanaApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+            {
+                builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+            }));
             services.AddControllers();
 
             //Swagger
@@ -36,6 +42,10 @@ namespace MiDominicanaApi
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
             });
 
+            var sectionUrlPage = Configuration.GetSection("SectionUrlPage"); 
+            services.Configure<SectionUrlPage>(sectionUrlPage);
+            services.AddScoped<IFuelsService, FuelsService>();
+            services.AddResponseCaching();
 
         }
 
