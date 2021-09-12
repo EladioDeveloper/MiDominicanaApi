@@ -7,6 +7,7 @@ namespace MiDominicanaApi.Models
 {
     public class SectionUrlPage
     {
-        public string Url { get; set; }
+        public string Micm { get; set; }
+        public string SkotiaBank { get; set; }
     }
 }

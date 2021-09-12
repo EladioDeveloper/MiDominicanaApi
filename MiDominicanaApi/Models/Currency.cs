@@ -7,9 +7,19 @@ namespace MiDominicanaApi.Models
 {
     public class Currency
     {
-        public string Bank { get; set; }
-        public byte Rate { get; set; }
-        public string Date { get; set; }
+        public Currency()
+        {
+        }
+
+        public Currency(string name, decimal purchase, decimal sale)
+        {
+            Name = name;
+            Purchase = purchase;
+            Sale = sale;
+        }
+
         public string Name { get; set; }
+        public decimal Purchase { get; set; }
+        public decimal Sale { get; set; }
     }
 }

@@ -20,14 +20,14 @@ namespace MiDominicanaApi.Services
         public async Task<Fuels> GetFuels()
         {
             Fuels fuel = new Fuels();
-            var listaPreciosCombustibles = await RequestPage();
-            fuel.GasolinaPremium = listaPreciosCombustibles[(int)EnumFuel.GasolinaPremium];
-            fuel.GasolinaRegular = listaPreciosCombustibles[(int)EnumFuel.GasolinaRegular];
-            fuel.GasoilOptimo = listaPreciosCombustibles[(int)EnumFuel.GasoilOptimo];
-            fuel.GasoilRegular = listaPreciosCombustibles[(int)EnumFuel.GasoilRegular];
-            fuel.Kerosene = listaPreciosCombustibles[(int)EnumFuel.Kerosene];
-            fuel.GasLicuadoPetroleoGLP = listaPreciosCombustibles[(int)EnumFuel.GasLicuadoPetroleoGLP];
-            fuel.GasNaturalVehicularGNV = listaPreciosCombustibles[(int)EnumFuel.GasNaturalVehicularGNV];
+            var fuelPriceList = await RequestPage();
+            fuel.GasolinaPremium = fuelPriceList[(int)EnumFuel.GasolinaPremium];
+            fuel.GasolinaRegular = fuelPriceList[(int)EnumFuel.GasolinaRegular];
+            fuel.GasoilOptimo = fuelPriceList[(int)EnumFuel.GasoilOptimo];
+            fuel.GasoilRegular = fuelPriceList[(int)EnumFuel.GasoilRegular];
+            fuel.Kerosene = fuelPriceList[(int)EnumFuel.Kerosene];
+            fuel.GasLicuadoPetroleoGLP = fuelPriceList[(int)EnumFuel.GasLicuadoPetroleoGLP];
+            fuel.GasNaturalVehicularGNV = fuelPriceList[(int)EnumFuel.GasNaturalVehicularGNV];
             return fuel;
         }
 
@@ -36,7 +36,7 @@ namespace MiDominicanaApi.Services
         {
             HtmlWeb htmlWeb = new HtmlWeb();
             HtmlDocument htmlDoc = await htmlWeb
-                .LoadFromWebAsync(this._sectionUrlPage.Url);
+                .LoadFromWebAsync(this._sectionUrlPage.Micm);
             var regs = htmlDoc.DocumentNode
                 .SelectSingleNode(@"(//table[@class='art-data-table art-data-table-condensed'])[last()]");
 

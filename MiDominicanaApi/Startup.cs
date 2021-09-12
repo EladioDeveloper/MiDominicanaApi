@@ -45,6 +45,7 @@ namespace MiDominicanaApi
             var sectionUrlPage = Configuration.GetSection("SectionUrlPage"); 
             services.Configure<SectionUrlPage>(sectionUrlPage);
             services.AddScoped<IFuelsService, FuelsService>();
+            services.AddScoped<ICurrencyService, CurrencyService>();
             services.AddResponseCaching();
 
         }
