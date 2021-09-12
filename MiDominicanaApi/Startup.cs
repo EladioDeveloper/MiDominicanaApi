@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.OpenApi.Models;
 
 namespace MiDominicanaApi
 {
@@ -26,6 +27,16 @@ namespace MiDominicanaApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            //Swagger
+            services.AddMvc();
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+            });
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +57,11 @@ namespace MiDominicanaApi
             {
                 endpoints.MapControllers();
             });
+
+            //Swagger
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ToDo API V1"));
+
         }
     }
 }
