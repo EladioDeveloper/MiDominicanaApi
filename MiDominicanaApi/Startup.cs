@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 using Microsoft.OpenApi.Models;
 using MiDominicanaApi.Models;
 using MiDominicanaApi.Services;
+using Microsoft.AspNetCore.Http;
 
 namespace MiDominicanaApi
 {
@@ -46,7 +47,8 @@ namespace MiDominicanaApi
             services.Configure<SectionUrlPage>(sectionUrlPage);
             services.AddScoped<IFuelsService, FuelsService>();
             services.AddScoped<ICurrencyService, CurrencyService>();
-            services.AddResponseCaching();
+            services.AddResponseCaching(); 
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
         }
 
@@ -59,6 +61,8 @@ namespace MiDominicanaApi
             }
 
             app.UseHttpsRedirection();
+
+            app.UseStaticFiles();
 
             app.UseRouting();
 

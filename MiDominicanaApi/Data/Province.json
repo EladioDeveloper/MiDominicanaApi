@@ -1,0 +1,145 @@
+[
+
+  {
+    "id": 1,
+    "name": "Azua",
+    "city": "Azua de Compostela",
+    "surface": 2531.77,
+    "population": 256981,
+    "density": 101,
+    "description": "Azua es bacano",
+    "imagePath": "azua.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bahoruco",
+    "city": "Neiba",
+    "surface": 1282.23,
+    "population": 118987,
+    "density": 92
+  },
+  {
+    "id": 3,
+    "name": "Barahona",
+    "city": "Santa Crus de Barahona",
+    "surface": 1739.38,
+    "population": 256981,
+    "density": 101
+  },
+  {
+    "id": 4,
+    "name": "Dajabón"
+  },
+  {
+    "id": 5,
+    "name": "Distrito Nacional"
+  },
+  {
+    "id": 6,
+    "name": "Duarte"
+  },
+  {
+    "id": 7,
+    "name": "Elías Piña"
+  },
+  {
+    "id": 8,
+    "name": "El Seibo"
+  },
+  {
+    "id": 9,
+    "name": "Espaillat"
+  },
+  {
+    "id": 10,
+    "name": "Hato Mayor"
+  },
+  {
+    "id": 11,
+    "name": "Hermanas Mirabal"
+  },
+  {
+    "id": 12,
+    "name": "Independencia"
+  },
+  {
+    "id": 13,
+    "name": "La Altagracia"
+  },
+  {
+    "id": 14,
+    "name": "La Romana"
+  },
+  {
+    "id": 15,
+    "name": "La Vega"
+  },
+  {
+    "id": 16,
+    "name": "María Trinidad Sánchez"
+  },
+  {
+    "id": 17,
+    "name": "Monseñor Nouel"
+  },
+  {
+    "id": 18,
+    "name": "Monte Cristi"
+  },
+  {
+    "id": 19,
+    "name": "Monte Plata"
+  },
+  {
+    "id": 20,
+    "name": "Pedernales"
+  },
+  {
+    "id": 21,
+    "name": "Peravia"
+  },
+  {
+    "id": 22,
+    "name": "Puerto Plata"
+  },
+  {
+    "id": 23,
+    "name": "Samaná"
+  },
+  {
+    "id": 24,
+    "name": "Sánchez Ramírez"
+  },
+  {
+    "id": 25,
+    "name": "San Cristóbal"
+  },
+  {
+    "id": 26,
+    "name": "San José de Ocoa"
+  },
+  {
+    "id": 27,
+    "name": "San Juan"
+  },
+  {
+    "id": 28,
+    "name": "San Pedro de Macorís"
+  },
+  {
+    "id": 29,
+    "name": "Santiago"
+  },
+  {
+    "id": 30,
+    "name": "Santiago Rodríguez"
+  },
+  {
+    "id": 31,
+    "name": "Santo Domingo"
+  },
+  {
+    "id": 32,
+    "name": "Valverde"
+  }
+]
