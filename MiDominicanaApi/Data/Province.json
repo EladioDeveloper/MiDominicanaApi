@@ -1,5 +1,4 @@
 [
-
   {
     "id": 1,
     "name": "Azua",
@@ -7,7 +6,7 @@
     "surface": 2531.77,
     "population": 256981,
     "density": 101,
-    "description": "Azua es bacano",
+    "description": "Es una de las provincias creadas desde la Independencia Nacional. Dicha provincia incluía a todo el suroeste del país, desde el Río Ocoa hasta la frontera con Haití. Su nombre proviene del nitaino (división administrativa taína) donde se fundó primeramente la ciudad de Azua, en el actual Pueblo Viejo. Fue una de las cinco provincias creadas por la primera Constitución dominicana en noviembre de 1844. Su territorio abarcaba municipios que estaban en disputa con Haití. Cabe destacar que, Azua cuenta con bellísimos recursos naturales, como sus extensas playas, Las Salinas, y la cascada conocida con el nombre de Vichí, con sus famosas aguas medicinales. En la comunidad de Yayas de Viajama se encuentra el balneario La Sulsa, cuyas aguas sulfurosas son utilizadas por los bañistas para enfrentar ciertos problemas de salud. También hay muchos pozos naturales de agua y algunos de petróleo.",
     "imagePath": "azua.jpg"
   },
   {
@@ -16,130 +15,308 @@
     "city": "Neiba",
     "surface": 1282.23,
     "population": 118987,
-    "density": 92
+    "density": 92,
+    "description": "La capital de la provincia es conocida como Neiba, y ya se reconoció su existencia en el año 1606, año en que se procedió a la destrucción de los pueblos del norte. Además de la capital, otras localidades han perdurado en el tiempo como Villa Jaragua y Los Ríos, que tienen su propia aportación a la historia de la región. En la zona de Bahoruco podrás realizar turismo ecológico y de aventura en el parque nacional Lago Enriquillo, visitar la fuente de Las Marías o disfrutar conociendo las tradiciones y costumbres de la gente de la región. El área tiene un importante papel en la extracción y comercialización del larimar, y ya se están empezando a abrir locales relacionados con la difusión de las propiedades y el procesado del mineral para su uso en la joyería como la Escuela Taller y Museo de Larimar en Bahoruco. En Bahoruco se encuentran diversos recursos naturales y culturales, como la variedad de bosques seco y húmedo que caracterizan a República Dominicana y que agregan valor al ecoturismo del Sur y lo convierten en una opción para las aventuras en cualquier época del año. Sin embargo, su potencial atractivo espera ser explotado. La provincia ofrece a los lugareños y turistas la oportunidad de participar en una cosecha de uvas (vendimia), descubrir milagrosas piscinas naturales de aguas frescas y cristalinas en una región ardiente y salina; tostar y pilar en el hogar de un caficultor o disfrutar un atardecer junto a un enorme lago Enriquillo, el principal atractivo turístico de la zona.",
+    "imagePath": "bahoruco.jpg"
   },
   {
     "id": 3,
     "name": "Barahona",
-    "city": "Santa Crus de Barahona",
+    "city": "Santa Cruz de Barahona",
     "surface": 1739.38,
-    "population": 256981,
-    "density": 101
+    "population": 226898,
+    "density": 130,
+    "description": "Fundada en 1802 por el general haitiano Toussaint Louverture, Barahona es conocida popularmente como “la novia del Caribe”. Se dice que en ningún lugar de la isla el mar es tan bello como en Barahona y los acantilados que se encuentran a lo largo de las costas de esta provincia son realmente imponentes. Sus playas de aguas turquesas y arenas blancas, así como paisajes de ensueño enclavados en plena naturaleza, transforman este espacio en uno de los lugares preferidos no solo para el turismo de sol y playa, sino también para el ecoturismo, pues se puede encontrar desde el bosque seco más propio del interior hasta bosque húmedo de carácter tropical en la sierra de Bahoruco. Además, la zona de Barahona y sus alrededores es célebre por su riqueza en yacimientos de sal gema, ónix, yeso y bauxita. Entre los atractivos de la bonita ciudad de Barahona se puede encontrar la arquitectura, caracterizada esencialmente por el arco del Triunfo, levantado en la época de Rafael Trujillo; la catedral de Nuestra Señora del Rosario, de 1948; el Palacio Municipal, el parque Central, la torre del reloj o el edificio de bomberos, de época decimonónica y que todavía mantiene la estructura. Estos son algunos de los interesantes monumentos que encontrarás en tu paso por la ciudad, de la que se dice que el nombre proviene de un popular apellido español de la época de la colonia.",
+    "imagePath": "barahona.jpg"
   },
   {
     "id": 4,
-    "name": "Dajab�n"
+    "name": "Dajab�n",
+    "city": "Dajab�n",
+    "surface": 1020.73,
+    "population": 67887,
+    "density": 66,
+    "description": "Descubre la provincia de Dajabón, en el norte de la República Dominicana, un lugar lleno de historia, arte, naturaleza y mezcla de culturas, que te enamorará y marcará tus vacaciones para siempre. Dajabón es lugar de paso para todo aquel que quiera cruzar la frontera con Haití y fue escenario de la lucha por la Independencia que mantuvieron los dominicanos contra el país vecino a mediados del siglo XIX. Podrás conocer su historia más reciente a través de las fotografías que se exponen en el Museo Imágenes de la Frontera, o descubrir los sentimientos más patrióticos de la gente del lugar a través de los monumentos como el de los Héroes de Sabana Larga o los Héroes de Beller. Disfruta de los dones de la naturaleza en el Campamento Ecológico Sabana Clara, en el balneario El Salto o en el Refugio de Vida Silvestre de Chacuey, o explora el magnífico parque nacional Nalga de Maco y su increíble cueva. Cuando visites las localidades de sus alrededores como Loma de Cabrera, Villa Anacaona o Restauración, y contemples el Cristo de Palo o la ermita de caoba de Villa Anacaona, descubrirás que no solo en la capital se respira el ambiente histórico y cultural.",
+    "imagePath": "dajabon.jpg"
   },
   {
     "id": 5,
-    "name": "Distrito Nacional"
+    "name": "Distrito Nacional",
+    "city": "Santo Domingo",
+    "surface": 104.44,
+    "population": 1484789,
+    "density": 14216,
+    "description": "el Distrito Nacional es el principal tesoro por descubrir por los extranjeros, la capital de la nación dominicana lo reúne todo: historia, cultura, arte, mar, ríos, parques, grandes centros comerciales, y la ciudad más vieja del Nuevo Mundo, Santo Domingo de Guzmán, luz de la civilización de América y Patrimonio de la Humanidad desde 1990. El turismo que ofrece el Distrito Nacional es fundamentalmente cultural, de contacto con la ciudad y la gente, de compra y de mucha diversión, pues cuenta con teatros a la altura de los mejores de la región, galerías de arte, centros culturales, salas de cine, ruinas de la época de la conquista, restaurantes con una gran variedad gastronómica, mejores hoteles y una vida nocturna muy activa los fines de semana. La Ciudad Colonial de Santo Domingo es el principal centro turístico del Distrito Nacional, pues en ella el visitante aprecia y palpa más de 500 años de historia, y la mezcla de lo europeo con lo americano, razón por la que es considerada la Ciudad Romántica, la cual se puede recorrer en el trencito Chu Chu Colonial.",
+    "imagePath": "distritoNacional.jpg"
   },
   {
     "id": 6,
-    "name": "Duarte"
+    "name": "Duarte",
+    "city": "San Francisco de Macoris",
+    "surface": 1605.35,
+    "population": 384789,
+    "density": 239,
+    "description": "La provincia Duarte, conocida como la Capital Mundial del Cacao Orgánico, se encuentra localizada al norteste de la República Dominicana y lleva su nombre en honor del padre de la patria Juan Pablo Duarte. En la actualidad esta provincia tiene un desarrollo económico que la convierte en una de las principales del país. Cuenta con grandes plantaciones de cacao, café, platano y arroz, y la cría de ganado vacuno para la producción de leche. Esta provincia produce gran parte del cacao que es exportado y el arroz que es consumido en el país. La Catedral de Santa Ana es uno de los lugares más apreciados por los habitantes del municipio San Francisco de Macorís. Sus orígenes datan en el 1808, año en el que se construyo la ermita Santa Ana. Su arquitectura combina lo gótico y lo moderno. La Reserva Científica Loma Quita Espuela es un buen ejemplo del un gran potencial ecoturístico de la provincia. Esta área ecológica abarca unos 72 km2 y alberga el pico más alto de la Cordillera Septentrional de la que lleva su nombre. Cuenta con exuberante bosque nublado y una gran biodiversidad de flora y fauna endémicas. El Estadio Julián Javier es un estadio de béisbol que lleva el nombre del ex beisbolista dominicano de Grandes Ligas Julián Javier y es la sede del equipo de béisbol Los Gigantes del Cibao que pertenece a la Liga Dominicana de Béisbol (LIDOM).",
+    "imagePath": "duarte.jpg"
   },
   {
     "id": 7,
-    "name": "El�as Pi�a"
+    "name": "El�as Pi�a",
+    "city": "Comendador",
+    "surface": 1426.20,
+    "population": 70589,
+    "density": 49,
+    "description": "Esta provincia fue fundada el 16 de septiembre de 1942 con el nombre de San Rafael en honor al tirano Rafael Leónidas Trujillo. En 1965, cambió al nombre de La Estrelleta en honor a la famosa batalla de independencia. Su nombre actual fue declarado el 29 de mayo de 1972 por la Ley No. 342. Las principales actividades económicas son la agricultura y el intercambio comercial con Haití. En las regiones montañosas de la Sierra de Neiba, hay plantaciones de café, habichuela y papa, mientras en las tierras bajas se destaca por sus cultivos menores y la crianza caprina y porcina. Esta provincia cuenta con cuatro áreas protegidas en esta provincia: el Monumento Natural Cerro de San Francisco, el Monumento Natural Las Caobas, el Parque Nacional Nalga de Maco y el Parque Nacional Sierra de Neiba. La Cueva de San Francisco de Asís: A menos de un kilómetro de Bánica, esta cueva es un lugar especial que cada 4 de octubre miles de peregrinos celebran y hacen sus oraciones al santo y defensor de la naturaleza. La Iglesia de San Francisco de Asís y el Reloj de Sol: Dos de las estructuras más antiguas del pueblo de Bánica presentan cierto valor histórico. El reloj es considerado por los habitantes de esta comunidad como un símbolo sagrado, mientras la parroquia cuya construcción se remonta al año 1695, ha sido bien conservada y muestra ciertos detalles característicos de la época colonial.",
+    "imagePath": "eliasPina.jpg"
   },
   {
     "id": 8,
-    "name": "El Seibo"
+    "name": "El Seibo",
+    "city": "Santa Cruz del Seibo",
+    "surface": 1786.80,
+    "population": 115889,
+    "density": 64,
+    "description": "Recorre la provincia de El Seibo (también conocida como Seybo), una de las provincias más importantes de República Dominicana, y descubre sus paisajes y actividades deportivas de montaña. En El Seibo se encuentra la basílica de la Santísima Cruz, de estilo victoriano, que data del año 1556. Es de visita obligada esta antigua iglesia y las valiosas reliquias que contiene en su interior que llegan a remontarse a los siglos XV y XVI. La zona es especialmente interesante para los amantes del deporte de montaña y del turismo ecológico, los cuales tendrán la oportunidad de practicar una amplia variedad de actividades gracias a la cercanía de las montañas en que se encuentra el nacimiento del río Seibo. No pierdas la oportunidad de visitar alguno de los balnearios que acoge el río que da su nombre a la provincia. Al norte de la provincia se localiza la reserva científica de las lagunas Redonda y Limón, donde se pueden observar multitud de aves y otros animales que viven en la zona protegida, además de poder contemplar los magníficos paisajes que les rodean. Muy cerca de las lagunas, los visitantes tienen la oportunidad de ver uno de los típicos pueblos dominicanos y formar parte de la vida cotidiana de los vecinos de Miches, una pequeña localidad pesquera que merece la pena visitar.",
+    "imagePath": "elSeibo.jpg"
   },
   {
     "id": 9,
-    "name": "Espaillat"
+    "name": "Espaillat",
+    "city": "Moca",
+    "surface": 838.62,
+    "population": 390478,
+    "density": 465,
+    "description": "Esta provincia fue creada en el año 1885. Anteriormente su parte sur era parte de la provincia La Vega mientras su parte norte era de la provincia Puerto Plata. La principal actividad económica de Espaillat es la agricultura, fortaleza los cultivos de plátano, café, cacao y yuca.  Además son lideres en la producción avícola y porcina. En la costa atlántica, el turismo es una actividad importante. Dado sus características geográficas y belleza natural, Espaillat es un verdadero destino ecoturístico. Además de sus playas, aqui encontraras complejos turísticos que ofecen a visitantes una variedad de actividades de montaña incluyendo caminatas ecológicas, paseos a caballo y excursiones en kayak. Algunas de sus atracciones principales incluyen los balnearios El Chorro y la Represa (Jamao al Norte), las playas Magante, Rogelio y La Ermita (Gaspar Hernández), la Reserva Cientifica La Salcedoa, la Iglesia Sagrado Corazón de Jesús (Moca), «el malecon» de Jose Contreras, y el Monte de Oración (San Victor).",
+    "imagePath": "espaillat.jpg"
   },
   {
     "id": 10,
-    "name": "Hato Mayor"
+    "name": "Hato Mayor",
+    "city": "Hato Mayor del Rey",
+    "surface": 1329.29,
+    "population": 89578,
+    "density": 67,
+    "description": "Explorar Hato Mayor y sus alrededores en tu viaje por la República Dominicana es conocer el gran valor histórico y geológico que esta provincia tiene en su país. Como ejemplo, podrás recorrer la increíble Cordillera Oriental, que se sitúa al norte de la ciudad, y el parque nacional Los Haitises. Así como las llanuras que hay desde San Antonio de Guerra hasta La Romana, que son caminos formados por la acción de grandes glaciares dejando en el fondo cantos rodados cubiertos hoy en día por humus. Se pueden visitar, además, las cuevas Fun-Fun, Doña Ana y Puerta del Cielo, a las que llegan excursiones organizadas desde distintos lugares del país. Para los interesados en la fauna autóctona de la zona, existe un área protegida llamada Refugio de Vida Silvestre Manglar de la Jina cuya dimensión es de 53 km2. En esa extensión de campo, viven numerosas variedades de aves así como mamíferos únicos en el mundo como el solenodonte y la jutia. No muy lejos de allí, se presenta una vez al año la oportunidad de ver a las ballenas jorobadas, que se reúnen para la época de la reproducción. Cerca de 15.000 personas salen cada año del puerto de Sabana de la Mar para ser testigos de tan grandioso espectáculo, pero también parten de esa localidad para hacer alguna de las excursiones que les llevará al parque de los Haitises, al noroeste de El Seibo. No olvides que la mejor época para visitar la ciudad Hato Mayor del Rey es durante las Fiestas Patronales, que se celebran en el mes de septiembre. Durante esas fechas, se realizan juegos populares, oficios religiosos, charlas y actuaciones de conjuntos folklóricos para deleite de tanto nacionales como turistas.",
+    "imagePath": "hatoMayor.jpg"
   },
   {
     "id": 11,
-    "name": "Hermanas Mirabal"
+    "name": "Hermanas Mirabal",
+    "city": "Salcedo",
+    "surface": 440.43,
+    "population": 103974,
+    "density": 234,
+    "description": "La provincia Hermanas Mirabal es la cuna y el hogar de las mariposas: Patria, Minerva y María Teresa, tres grandes heroínas de la República Dominicana, que son símbolos de libertad en todo en mundo. Esta provincia se distingue por su gran aporte al desarrollo cultural, nacional e internacional, porque aparte del hermoso paisaje que le distingue y la calidez de sus habitantes, posee numerosos atractivos que le rinden honor a las eternas mariposas como: el Anfiteatro, el Bosque de la Mujer, la Ruta de las Mariposas (un evento realizado con el propósito de que cientos de dominicanos y extranjeros conozcan los sitios que fueron visitados por Patria, Minerva y María Teresa Mirabal antes de morir), así como la Ruta de los Murales, el cual surge en 2006 como una de las actividades del Festival Cultural Hermanas Mirabal, cuyo objetivo es la preservación, el fomento y la promoción de las expresiones artísticas y los valores culturales de la provincia, el Ecoparque (un espacio lleno de recursos naturales que permite disfrutar en un ambiente familiar y acogedor), y, sobre todo, la Casa Museo, lugar que fue su residencia de crianza y en la cual se conservan objetos personales que hoy día tienen un valor histórico e intangible para nuestro país.",
+    "imagePath": "hermanasMirabal.jpg"
   },
   {
     "id": 12,
-    "name": "Independencia"
+    "name": "Independencia",
+    "city": "Jimaní",
+    "surface": 2006.44,
+    "population": 54785,
+    "density": 27,
+    "description": "Descubre la provincia de  Independencia, la provincia fronteriza en la que se unen la naturaleza y las culturas haitiana y dominicana en una encantadora mezcla de sabores y colores que hará que recuerdes tus vacaciones como algo irrepetible. Visita la capital de la provincia, Jimaní, y explora sus calles en busca de esa aventura que quieres vivir. Siéntate en algún restaurante a saborear la cocina tradicional o mézclate con los residentes e intercambia tradiciones con ellos. Puedes explorar las preciosas montañas que forman la provincia y deleitarte contemplando las maravillosas vistas cubiertas de verde vegetación. Observa los tímidos habitantes de los bosques que pueblan el parque nacional Lago Enriquillo, el parque nacional Sierra de Bahoruco, Monumento Natural Las Caobas o la isla Cabritos. Pasea por las calles de Duvergé y descubre ese acogedor pueblecito del que salen las interesantes excursiones que te llevarán a los parques nacionales.",
+    "imagePath": "independencia.jpg"
   },
   {
     "id": 13,
-    "name": "La Altagracia"
+    "name": "La Altagracia",
+    "city": "Salvaleón de Higüey",
+    "surface": 3010.34,
+    "population": 335677,
+    "density": 111,
+    "description": "La Altagracia es la provincia más oriental de la República Dominicana. Fue creada el 27 febrero de 1961. Anteriormente, era parte de la provincia El Seibo y luego en 1944 pasó a formar parte de la nueva provincia La Romana. La provincia debe su nombre a la Basílica de Nuestra Señora de la Altagracia, un majestuoso templo en la ciudad capital de Salvaleón de Higuey en que cada 21 de enero miles de personas acuden al mismo para celebrar el Día de la Altagracia quien es la patrona del pueblo dominicano. Las actividades económicas más importantes de la provincia son la agricultura (cultivo de caña de azúcar y arroz), la ganadería y el turismo. La costa oriental de la provincia, conocida como Punta Cana y Bávaro, es el centro turístico más importante del país, y presenta lujosos complejos hoteleros y playas con arenas blancas y aguas claras. En muchas de sus hermosas playas, visitantes pueden disfrutar de balnearios que ofrecen servicios de fisioterapia. Ubicada frente a la costa sureste de la República Dominicana, la Isla Saona es una de las más grandes del territorio dominicano. Conocida por sus muchas playas y bellezas naturales, es un destino popular para los turistas nacional y internacionales que llegan a la isla en catamaranes y pequeñas lanchas en excursiones organizadas. Sus refrescantes ríos son algunos de los principales atractivos naturales, y su principal es el de Yuma que fluye de norte a sur al Mar Caribe. El distrito municipal de Bayahibe presenta playas atractivas, oportunidades de submarinismo, y escursiones en lanchas a la Isla Saona y la Isla Catalina. La Basílica Nuestra Señora de la Altagracia es el monumento religioso más importante de la República Dominicana. El Parque Nacional del Este es una de las principales áreas protegidas de la isla con una área de más de 300 kilómetros cuadrados. Su fauna terrestre y marina es diversa. Es una zona ideal para la observación de aves dado las docenas de especies de aves que han sido registradas dentro de sus límites. Entre las especies marinas más destacadas se encuentran los mamiferos como el delfín y el manatí.",
+    "imagePath": "laAltagracia.jpg"
   },
   {
     "id": 14,
-    "name": "La Romana"
+    "name": "La Romana",
+    "city": "La Romana",
+    "surface": 653.95,
+    "population": 330587,
+    "density": 505,
+    "description": "Tu viaje por La Romana será una experiencia increíble colmada de múltiples actividades de todo tipo, como admirar el arte antiguo y contemporáneo, vivir auténticas aventuras submarinas, paseos por playas paradisíacas, descubrimientos subterráneos, refrescantes zambullidas, caminatas en la selva tropical, noches trepidantes y emoción deportiva. Algunos de los lugares más conocidos de la ciudad son el obelisco, la iglesia Santa Rosa de Lima, el parque Central, el parque de la Rotonda o el monumento a la Biblia. En sus alrededores también encontrarás múltiples lugares para visitar como Casa de Campo, Altos de Chavón, Bayahibe o el parque nacional del Este. Otro de los atractivos son los diferentes torneos de golf que se dan lugar en la zona, o, si lo prefieres, podrás jugar en cualquiera de los estupendos campos de golf que hay por la costa este. También podrás asistir a cualquiera de los partidos de béisbol de las temporadas regular o final y vivir el deporte rey de la República Dominicana. Disfruta, además, de los variados conciertos que se ofrecen en Altos de Chavón y disfruta de las actuaciones de artistas de la talla de Gloria Estefan, Sting o Andrea Bocelli.",
+    "imagePath": "laRomana.jpg"
   },
   {
     "id": 15,
-    "name": "La Vega"
+    "name": "La Vega",
+    "city": "Concepción de la Vega",
+    "surface": 2287.24,
+    "population": 420478,
+    "density": 183,
+    "description": "La Vega fue una de las primeras provincias creadas por la primera constitución del país en el año 1844. Debido a su geografía, clima y hidrografía, La Vega es uno de los zonas agricolas más diversas de la República Dominicana. En la región baja del Valle del Cibao, hay plantaciones de arroz, platano, yuca, cacao y cítricos, mientras en la región montañosa de la Cordillera Central se produce café, hortícolas y frutas de ambiente frío. También se beneficia de su producción avícola, porcina y ganado vacuno, y recursos mineros (mármol gris y ferroníquel). En la región montañosa de Constanza, la producción de flores y plantas ornamentales es una importante actividad económica. La Vega es uno de los lugares turísticos más atractivos de República Dominicana, donde se practica el turismo ecológico y de aventura. Para fanáticos de la naturaleza y paisajes panorámicos, tenemos las reservas científicas Ébano Verde y Las Neblinas, los parques nacionales Baiguate, Armando Bermúdez, José del Carmen Ramírez y Valle Nuevo, y los monumentos naturales Salto de Aguas Blancas en Constanza y los Saltos de Jimenoa y Baiguate en Jarabacoa. La Catedral Inmaculada Concepción: Este templo ubicada justo al frente del Parque Central de Concepción de la Vega, es un edificio imponente que se resalta por su diseño arquitectónico que guarda significados relacionados con la espiritualidad y la doctrina católica. La Confluencia: Este balneario de aguas frescas, está ubicado en Jarabacoa, y se debe su nombre a la confluencia de los ríos dominicanos Jimenoa y Yaque del Norte. Santo Cerro: También conocido como el Santuario a la Virgen de las Mercedes, este templo atrae a miles de católicos del país para venerar a la Virgen de las Mercedes cuya festividad se celebra cada 24 de septiembre. El Carnaval Vegano: Una de los carnavales más importantes y coloridos de la República Dominicana inició en el año 1520, pero no fue hasta 1947 que se convirtió en una tradición de La Vega. Se celebra todos los domingos durante la temporada carnavalesca (enero-marzo).",
+    "imagePath": "laVega.jpg"
   },
   {
     "id": 16,
-    "name": "Mar�a Trinidad S�nchez"
+    "name": "Mar�a Trinidad S�nchez",
+    "city": "Nagua",
+    "surface": 1271.71,
+    "population": 140784,
+    "density": 110,
+    "description": "Ubicada en el noreste de la provincia María Trinidad Sánchez, en la República Dominicana, la ciudad de Nagua se erige como la capital. Se trata de una zona especialmente conocida por sus playas paradisíacas, la mayoría de ellas son de finas arenas blancas. En sus orígenes, en el año 1938, la acogedora ciudad se bautizó como “Julia Molina”, nombre de la madre del entonces dictador Rafael Trujillo, y tras su caída, en 1961, se cambió el nombre por el de “Nagua”. Denominada comúnmente como “Boca de Nagua”, esta preciosa ciudad tiene mucho que ofrecer al visitante, especialmente a los amantes del ecoturismo. Algunos de los lugares más recomendados por turistas tanto nacionales como internacionales son, por ejemplo, el monumento natural Cabo Francés Viejo, la Laguna Dudú o la playa Diamante. No dudes en acercarte a las costas norteñas de la República Dominicana y explorar los rincones más encantadores de la isla.",
+    "imagePath": "mariaTrinidadSanchez.jpg"
   },
   {
     "id": 17,
-    "name": "Monse�or Nouel"
+    "name": "Monse�or Nouel",
+    "city": "Bonao",
+    "surface": 992.39,
+    "population": 201474,
+    "density": 203,
+    "description": "Fue creada en el año 1982. Este lugar recibe su nombre por el Dr. Monseñor Adolfo Alejandro Nouel y Bobadilla, Arzobispo de Santo Domingo y presidente de la República Dominicana (1912-1913). Sus actividades económicas principales son la agropecuaria y la minería. En Monseñor Nouel, se encuentra la explotación de ferroníquel, mientras su producción agrícola consiste generalmente en el arroz, el cacao y el café. La cría de ganado para la industria lechera también representa una importante parte de la economía de la provincia. Monseñor Nouel cuenta con cierta riqueza natural, cultural e histórica que potencialmente son lugares de interés de muchos públicos. El Salto de Jima. Este monumento natural ubicado al norte de Bonao ofrece a visitantes una experiencia maravillosa para relajarse entre sus bellas aguas y ambiente verde y montañoso. La Plaza de la Cultura de Bonao. Este centro cultural ubicado en el corazón de Bonao preserva el legado del destacado artista dominicano Cándido Bidó, cuyo museo cuenta con importantes colecciones de obras de arte y piezas históricas. Carnaval de Bonao. Uno de los principales carnavales de la República Dominicana se celebra desde el último domingo del mes de enero hasta el segundo domingo de marzo. La Presa de Rincón. Además de su importancia a la producción agrícola de la región, esta presa presenta un gran potencial turístico para disfrutar de deportes acuáticos y la pesca.",
+    "imagePath": "monsenorNouel.jpg"
   },
   {
     "id": 18,
-    "name": "Monte Cristi"
+    "name": "Montecristi",
+    "city": "San Fernando de Monte Cristi",
+    "surface": 1924.35,
+    "population": 135710,
+    "density": 70,
+    "description": "Montecristi, capital de la provincia de Montecristi, en tu paso por la costa norte de la República Dominicana. Esta es más bien una ciudad desconocida que no suele incluirse en las rutas turísticas normalmente. Sin embargo, es el punto de entrada al parque nacional Montecristi. Otro atractivo de la ciudad es su temperatura cálida durante todo el año y las desérticas playas que la rodean por el norte. En cuanto a su historia, fue fundada por Nicolás de Ovando en 1506. En 1606 se produjeron las llamadas “devastaciones de Osorio”, que consistieron en la despoblación de  la zona y el traslado de sus habitantes a otras regiones del país cercanas a Santo Domingo, debido al enorme comercio ilegal, llámese contrabando, que estaba sucediendo allí con piratas extranjeros, con incluso el consentimiento de las autoridades y con el consecuente perjuicio para la corona española. La ciudad de Montecristi se abre al visitante para ofrecerle unos días de relax y desconexión de las grandes masas de turistas y disfrutar de sus playas y de su espléndida naturaleza.",
+    "imagePath": "monteCristi.jpg"
   },
   {
     "id": 19,
-    "name": "Monte Plata"
+    "name": "Monte Plata",
+    "city": "Monte Plata",
+    "surface": 2632.14,
+    "population": 200454,
+    "density": 76,
+    "description": "Monte Plata fue creada el 20 de agosto de 1982, llevando el nombre de su capital provincial. Las principal actividad económica es la agricultura. Se destaca por sus cultivos de caña de azúcar, cacao, y cítricos, y la cría de ganado vacuno para la industria lechera y el comercio de carne. Aunque el turismo no es tan desarrollado, esta provincia cuenta con interesantes lugares para conocer. Entre los más populares estón los balnearios del río Comate, el río Yabacoa, Salto de Socoa y el Salto Alto de Bayaguana. En la región noreste, está el Parque Nacional Los Haitises, un popular destino ecoturístico que contiene paisajes espectaculares, amplios manglares, cavernas con pictogramas y petroglifos, y una gran diversidad de mamíferos y aves. En el municipio Bayaguana, la Iglesia del Santo Cristo de los Milagros de Bayaguana es un templo dedicado al patrón San Juan Bautista, y después de recibir la categoría de Centro de Peregrinación por decreto del Papa Benedicto XVI en el 2000, miles de creyentes visitan este santuario en busca de un milagro o en agradecimeniento por haber recibido lo solicitado.",
+    "imagePath": "montePlata.jpg"
   },
   {
     "id": 20,
-    "name": "Pedernales"
+    "name": "Pedernales",
+    "city": "Pedernales",
+    "surface": 2074.53,
+    "population": 38941,
+    "density": 19,
+    "description": "Aunque la localidad de Pedernales fue fundada como tal en el año 1927, la zona estaba habitada desde tiempos coloniales. La primera fortaleza militar se construyó en 1934 y poco más tarde, se hizo la carretera Oviedo-Pedernales. Se encuentra a muy poca distancia de los paraísos naturales del hoyo de Pelempito y de la bahía de las Águilas que, al ser zonas protegidas, no tienen alojamiento para el turismo. Por ese motivo, ha habido una cierta tendencia a aumentar el número de turistas en la ciudad que son atraídos por la belleza y la tranquilidad de los paisajes de la provincia. Las principales actividades económicas del municipio son la ganadería, la agricultura, la minería y la pesca, siendo los principales productos la habichuela y el café, en cuanto a agricultura, y el ganado vacuno y caprino, en cuanto a ganadería. La pesca se centra, sobre todo, en la captura de langosta y lambí, el conocido caracol marino gigante. En la provincia de Pedernales podrás encontrar lugares increíbles como la isla Beata o Alto Velo, o la laguna de Oviedo; además del parque nacional Jaragua en el que puedes explorar sus cavernas y hacer turismo ecológico contemplando el maravilloso entorno tropical.",
+    "imagePath": "pedernales.jpg"
   },
   {
     "id": 21,
-    "name": "Peravia"
+    "name": "Peravia",
+    "city": "Baní",
+    "surface": 792.33,
+    "population": 298747,
+    "density": 377,
+    "description": "Peravia es una de las provincias más pequeñas de la República Dominicana tiene una superficie de más de 785 kilómetros cuadrados. El actual nombre de la provincia le fue dado en el año 1961. Su economía se sustenta generalmente de la agricultura, en particular por sus cultivos de platano, tomate, cebolla, café, arroz, lechoza y mango. La pesca y la producción de sal se destacan a lo largo de la costa. Las principales atracciones turísticas de la provincia son: La Bahía de las Calderas: Una bahía del mar Caribe que es de gran interés científico debido a la variada biodiversidad del lugar incluyendo tortugas marinas, flamencos y iguanas. Dunas de Bani: Un campo de altas dunas de arena fina que se extiende por unos 15 kilómetros en línea recta y es el resultado de los vientos del lugar. En Baní, tenemos el Centro Cultural Perelló, un espacio cultural para los artistas de la provincia donde se realizan eventos culturales, exposiciones, espectáculos y otras actividades. Las playas más importantes de esta provincia son la Playa Salinas, la Playa Almendros y la Playa Nizao.",
+    "imagePath": "peravia.jpg"
   },
   {
     "id": 22,
-    "name": "Puerto Plata"
+    "name": "Puerto Plata",
+    "city": "San Felipe de Puerto Plata",
+    "surface": 1852.90,
+    "population": 490733,
+    "density": 264,
+    "description": "La provincia de Puerto Plata, en la costa norte de República Dominicana, es uno de las zonas más visitadas por los turistas. Sus increíbles playas y sus muchas opciones de ocio, aventura y diversión le confieren un valor turístico inmenso. El ecoturismo es uno de sus mayores atractivos, puesto que cuenta con zonas boscosas donde hacer senderismo, observar las aves y las ballenas jorobadas, en las áreas de Sosúa y Cabarete; así como multitud de deportes de aventura como el buceo, el surf, el windsurf, la escalada, el barranquismo, el enduro, entre otros muchos, en la parte de Guananico y Altamira. La ciudad capital San Felipe de Puerto Plata, conocida simplemente como Puerto Plata, se ofrece como centro neurálgico de la provincia y es de visita obligada por sus estupendas playas y su agradable ambiente marítimo. Aquí no debes olvidar subirte al famoso teleférico que sube hasta la loma Isabel de Torres y observar las bellas vistas de esta ciudad y de su litoral.",
+    "imagePath": "puertoPlata.jpg"
   },
   {
     "id": 23,
-    "name": "Saman�"
+    "name": "Saman�",
+    "city": "Santa Bárbara de Samaná",
+    "surface": 853.74,
+    "population": 168265,
+    "density": 126,
+    "description": "Samaná se ha convertido en una de las provincias más turísticas no solo por los turistas nacionales, sino también por los internacionales. En ella podrás realizar un sinfín de actividades ecológicas y culturales, lo que la convierte en todo un referente de diversión y naturaleza de la República Dominicana. Si lo que buscas es vivir en primera persona la bella y abrupta naturaleza dominicana, Samaná es tu destino ideal, ya que en ella podrás encontrar lugares tan increíbles como el parque nacional los Haitises o el Santuario de Mamíferos Marinos. ampoco podemos olvidarnos de sus increíbles y paradisíacas playas, donde podrás relajarte sobre sus finas arenas y cristalinas aguas. Además, en las playas de Samaná podrás practicar un sinfín de deportes acuáticos como el windsurf o el submarinismo. Entre sus diferentes playas podemos destacar la playa Morón o Playa Bonita, entre muchas otras más. Uno de los atractivos principales de Samaná es la cercanía y simpatía de sus gentes, las cuales podrás conocer a lo largo de sus coloridas y alegres calles. Además de disfrutar de su magnífica gastronomía, que cuenta con manjares deliciosos donde se mezclan los sabores tropicales y criollos; toda una delicia que no te puedes perder.",
+    "imagePath": "samana.jpg"
   },
   {
     "id": 24,
-    "name": "S�nchez Ram�rez"
+    "name": "S�nchez Ram�rez",
+    "city": "Cotuí",
+    "surface": 1196.13,
+    "population": 157457,
+    "density": 131,
+    "description": "Sánchez Ramírez es una provincia relativamente joven ya que fue creada en el año 1952. Anteriormente era un municipio de la provincia Duarte, y muchos años antes había sido parte de la provincia La Vega. Las principales actividades económicas de la provincia son la agricultura y la minería. En la Sierra de Yamasá, se encuentran plantaciones de cacao, tabaco y cítricos, mientras en el Valle de Yuna hay extensos cultivos de arroz. La cría de ganado para la producción de carne y la industría lechera es renglón económico importante del noroeste de Sánchez Ramírez. Entre las cosas que el turista puede disfrutar de este lugar de la República Dominicana: La Presa de Hatillo es una de las reservas de agua dulce más grandes de la isla que ha sido crucial en la económia de la provincia en particular para la industria arrocera. Ofrece a visitantes bellas vistas de la Sánchez Ramírez. El balneario del Río Yuna es uno de los más importantes de Sánchez Ramírez, y es ideal para residentes y viajeros. Para amantes de la espeología, las Guácaras Taínas son cavernas con pictografías taínas que poseen cierta importancia arqueológica e histórica.",
+    "imagePath": "sanchezRamirez.jpg"
   },
   {
     "id": 25,
-    "name": "San Crist�bal"
+    "name": "San Crist�bal",
+    "city": "San Cristóbal",
+    "surface": 1265.77,
+    "population": 859741,
+    "density": 679,
+    "description": "La provincia de San Cristóbal es una de las más turísticas de la República Dominicana gracias a su importante capital, la ciudad de San Cristóbal, una de las más extensas del país, a unos 30 km al oeste de la capital, ubicada en un pequeño valle perteneciente a la Cordillera Central, entre los ríos Nigua y Nizao. Esta destacada provincia, que limita al este con Santo Domingo, al oeste con Peravia, y al noroeste con San José de Ocoa, fue creada en 1932 con el nombre originario de Trujillo, en honor al dictador Rafael Leonidas Trujillo, creador de la misma, hasta su fallecimiento, donde posteriormente recibiría el nombre de San Cristóbal, por ser esta la capital de la provincia. Las principales actividades económicas de ambas son la industria, la agricultura a pequeña escala, la portuaria y, como no, el turismo. Uno de los principales atractivos turísticos es la importante cultura de esta región y los numerosos patrimonios culturales que posee. Además de la extraordinaria belleza exótica de sus playas paradisíacas, ya que la provincia está bañada por uno de los mares más atractivos a nivel mundial, el mar Caribe, que baña la costa de la provincia San Cristóbal.",
+    "imagePath": "sanCristobal.jpg"
   },
   {
     "id": 26,
-    "name": "San Jos� de Ocoa"
+    "name": "San Jos� de Ocoa",
+    "city": "San José de Ocoa",
+    "surface": 855.4,
+    "population": 82458,
+    "density": 96,
+    "description": "El pueblo de San José de Ocoa es el municipio cabecera de la provincia del mismo nombre. Este pueblo se sitúa a orillas del río Ocoa y está a una altitud de unos 475 m. Estas condiciones geográficas le confieren un encanto especial, pues la belleza de sus paisajes montañosos y fluviales no tienen parangón en toda la República Dominicana. San José de Ocoa es un acogedor pueblo que destaca sobre todo por la simpatía y la hospitalidad de su gente, que, en su mayoría, se dedica a la agricultura y a la artesanía.En tu visita no puedes desaprovechar la oportunidad de conocer algunos de los lugares más emblemáticos del municipio. Uno de ellos es un bonito y peculiar museo llamado Casa de los Recuerdos del padre Luis Quinn. Aquí podrás descubrir la vida y obra de este gran hombre, que entregó su vida al pueblo. Otro de los atractivos es la iglesia de la Altagracia, una preciosa construcción de culto católico. Pero, sin lugar a dudas, uno de los puntos de interés más sobresalientes de San José de Ocoa es su parque Libertad. Este parque es considerado uno de los más hermosos y admirados de todo el país; sus jardines de variadas plantas, sus tranquilos senderos y la bella glorieta en el centro lo hacen un lugar perfecto para el descanso. El Tesoro de Guayacán es una de ellas. Este es un recorrido ecoturista que visita la comunidad de Los Martínez. Los Martínez es un pequeño pueblo en el que la calidad humana es su sello de identidad. En esta ruta podrás admirar los increíbles y preciosos paisajes que forman la conjunción de los sistemas montañosos con los ríos que los serpentean. También se puede hacer una ruta del café, llamada Café Samir, donde visitarás las plantaciones de café de la zona y conocerás cómo se produce este preciado producto. Por último, no hay que olvidar uno de los atractivos más potentes de República Dominicana y que en San José de Ocoa podrás disfrutar al máximo: su gastronomía. En el pueblo hay varios restaurantes en los que degustarás algunos de los platos típicos de esta provincia, como son el chivo ocoeño y el delicioso dulce de papa.",
+    "imagePath": "sanJoseOcoa.jpg"
   },
   {
     "id": 27,
-    "name": "San Juan"
+    "name": "San Juan",
+    "city": "San Juan de la Maguana",
+    "surface": 3569.39,
+    "population": 300476,
+    "density": 84,
+    "description": "Conocida como la “Ciudad de los Brujos”, San Juan de Maguana está fuertemente influenciada por las creencias de los cada vez más numerosos haitianos que practican vudú. Fue una de las primeras ciudades fundadas en la isla, en 1503, y su nombre proviene de San Juan Bautista y el nombre taíno del valle, Maguana. El caudillo taíno de Maguana fue Caonabo, el cual luchó ferozmente contra los colonizadores españoles. Sin embargo, no pudo evitar que los españoles se instalarán y que Diego Velázquez, II almirante de la Mar Océana, fundara la conocida ciudad. esta ciudad fue víctima de numerosas incursiones por parte de los negros cimarrones, al tomarlo como lugar de paso entre el Cibao y Neyba o Bahoruco. Estos cimarrones se iban uniendo a las filas del cacique Enriquillo. Más tarde, un terremoto destruyó la ciudad de San Juan de Maguana por completo. Una vez reconstruida, esta ciudad ha sido testigo de muchas batallas en todos los conflictos en los que se ha visto inmersa la isla, pero se recuerdan a través de conmemoraciones como el monumento en honor a los héroes de Santome. En esta localidad hay muchas plazas y parques bastante concurridos como el parque José María Cabral, también conocido como el “parque de los Burros”; el parque Caonabo; el parque Francisco del Rosario Sánchez y la plaza Anacaona. La catedral de San Juan Bautista es un impresionante edificio muy importante en la ciudad.",
+    "imagePath": "sanJuan.jpg"
   },
   {
     "id": 28,
-    "name": "San Pedro de Macor�s"
+    "name": "San Pedro de Macor�s",
+    "city": "San Pedro de Macoris",
+    "surface": 1255.46,
+    "population": 418850,
+    "density": 333,
+    "description": "Descubre San Pedro de Macorís, a 70 km al este de Santo Domingo. La ciudad, que comenzó siendo un pequeño pueblo de pescadores, esconde lugares entrañables como el malecón, con sus chiringuitos donde poder tomar una refrescante cerveza o ron, y el Parque Central, así como otros algo más históricos como la Catedral de San Pedro Apóstol o la Cueva de las Maravillas. San Pedro de Macorís es uno de los pocos lugares de la isla en que se pueden observar las típicas danzas antillanas momise, también conocidas como “guloyas”. Se dice que su origen nació en los bailes de los descendientes de negros cocolos que llegaron a San Pedro de Macorís provenientes de las islas británicas del Caribe. Los participantes van enmascarados, y tanto la música como la danza tienen un tono africano. Sin embargo, cuando los bailes son dramatizados, las historias se basan en lecciones bíblicas o leyendas británicas. Se pueden ver tres danzas diferentes: la danza salvaje, en la que los guloyas se desplazan por distintas partes de la ciudad; la danza del padre invierno; y la de El Codril, en la que la danza se desarrolla en dos filas. Podrás aprovechar esta visita para pasarte por la localidad de Juan Dolio, a sólo 16 km de San Pedro de Macorís, y disfrutar de un día de playa mientras escoges entre los numerosos lugares donde probar la deliciosa cocina local, o pasea entre los comercios donde adquirir un recuerdo artesanal de tus vacaciones. A un par de kilómetros por la carretera de La Romana, no dejes de visitar la impresionante Cueva de las Maravillas, un lugar donde se unen la historia y la geología.",
+    "imagePath": "sanPedroMacoris.jpg"
   },
   {
     "id": 29,
-    "name": "Santiago"
+    "name": "Santiago",
+    "city": "Santiago de los Caballeros",
+    "surface": 2836.51,
+    "population": 1833451,
+    "density": 646,
+    "description": "Santiago de los Caballeros es una de las principales ciudades de la zona interior de la República Dominicana. Capital de la provincia de Santiago, esta agradable ciudad es la segunda mayor de todo el país y ejerce de centro metropolitano de la región central. Santiago es una ciudad moderna y cosmopolita que se alza como centro cultural e industrial. Aquí podrás disfrutar de excelentes hoteles, buenos restaurantes y museos. Esta ciudad ofrece la oportunidad de conocer de primera mano cómo funcionan algunas de las industrias más potentes de ron, tabaco y café; y, todo ello, alejado de las grandes masificaciones de turistas. Aquí encontrarás multitud de lugares de interés llenos de encanto y cultura. Entre los museos y monumentos más importantes destacan el Museo Folclórico Don Tomás Morel, la Casa del Arte, el monumento de los Héroes de la Restauración de la República y la fortaleza de San Luis. Como no podía ser de otro modo, en cada rincón de la ciudad se respira el deporte rey del país: el béisbol. Santiago de los Caballeros cuenta con el estadio más grande de República Dominicana, el Estadio Cibao, donde juegan las Águilas Caribeñas. Otro de sus atractivos es conocer, mientras se da un tranquilo paseo, el precioso parque Colón, o, si lo que prefieres es escaparte a conocer la naturaleza y los parajes de la región del Cibao, la Cordillera Central es el mejor lugar, donde se levanta el pico Duarte, la elevación montañosa más alta de las Antillas Mayores.",
+    "imagePath": "santiago.jpg"
   },
   {
     "id": 30,
-    "name": "Santiago Rodr�guez"
+    "name": "Santiago Rodr�guez",
+    "city": "Sabaneta",
+    "surface": 1111.14,
+    "population": 164941,
+    "density": 148,
+    "description": "El nombre de esta provincia lo tiene en honor al militar y fundador de Sabaneta quien fue una de las figuras importantes de la Guerra de la Restauración. Fue creada en año 1948, antes de esto era un municipio de la provincia Montecristi. La economía Santiago Rodríguez centra en la agricultura y la ganadería para la industria lechera. Aqui encontraras plantaciones de plátano, tabaco, arroz, maíz, batata y yuca. La provincia es muy famosa por la comercialización del casabe. El turismo no es el fuerte de esta provincia, sin embargo para los amantes del ecoturismo resulta el Parque Nacional Armando Bermudez, una área protegida que fue establecida en el año 1956. Es conocida por sus temperaturas frías y frescas durante la mayor parte del año, enorme bosque de pinos, ebano y caoba, y una gran variedad de vida silvestre como cotorras, papagayos, gavilanes, cuervos, guaraguaos y tórtolas. La Presa de Monción ofrece a sus visitantes varias oportunidades recreativas como la pesca. También puedes disfrutar el tiempo con amigos y familiares en uno de muchos kioskos a lo largo de este enorme lago artificial. Entre sus principales destinos religiosos, los más visitados son el monasterio Carmelita Nuestra Señora de América y San José y el Santuario al Divino Niño.",
+    "imagePath": "santiagoRodriguez.jpg"
   },
   {
     "id": 31,
-    "name": "Santo Domingo"
+    "name": "Santo Domingo",
+    "city": "Santo Domingo Este",
+    "surface": 1301.84,
+    "population": 2995211,
+    "density": 2310,
+    "description": "Descubre la centenaria ciudad de Santo Domingo de Guzmán, en la República Dominicana, y conoce el primer asentamiento europeo en América. Fundada por Bartolomé Colón en el año 1496, en el margen oriental del río Ozama, pero trasladada al occidental por Nicolás de Ovando en 1502, debido a su destrucción por un huracán, Santo Domingo fue la primera sede del gobierno colonial español en el Nuevo Mundo. Visita las exposiciones permanentes o temporales del Museo del Hombre Dominicano, el Museo Nacional de Historia y Geografía, la Sala de Arte Prehispánica y Los Tres Ojos, donde quedarás encantado especialmente de la historia precolombina de la isla. Hoy en día, es la décima ciudad más poblada de América Latina, y la más poblada del Caribe. Es uno de los mayores centros culturales, económicos, políticos, comerciales e industriales de la República Dominicana. Además, su centro histórico, conocido como Ciudad Colonial, fue declarado patrimonio de la humanidad por la Unesco en 1990. En el Trenecito Colonial (Chu Chu Colonial) podrás dar una vuelta por las distintas calles y contemplar la riqueza arquitectónica del centro histórico. En la ciudad de Santo Domingo, podrás ser testigo de toda una época a través de los diferentes edificios, calles, plazas y parques. Pasea por calles centenarias y contempla las casas coloniales y las fortificaciones que, a pesar del tiempo, mantienen el encanto de los siglos pasados, tanto en sus fachadas como en su interior. Admira los numerosos templos religiosos que aguantan los embates del tiempo y del clima. Visita iglesias pequeñas como la iglesia de Nuestra Señora del Carmen, u otras más impresionantes como el templo de las Mercedes, o contempla la catedral Primada de América y viaja a los orígenes del cristianismo en el Nuevo Mundo. Los habitantes de Santo Domingo tienen muchos motivos para estar orgullosos de su país, ya que uno de sus mayores logros fue conseguir la independencia de este. Por ello, existen multitud de monumentos, edificios, parques y museos en honor a aquellos que lucharon por ella. Visita el parque de la Independencia, con la puerta del Conde y el Altar de la Patria, o la plaza de la Misericordia, donde se proclamó la independencia. Conoce la Casa de los Trinitarios, donde se gestó, o el Museo Casa Duarte, donde vivieron los principales responsables. O Acude también al Museo Memorial de la Resistencia Dominicana para saber más sobre aquella época tan memorable.",
+    "imagePath": "santoDomingo.jpg"
   },
   {
     "id": 32,
-    "name": "Valverde"
+    "name": "Valverde",
+    "city": "Mao",
+    "surface": 823.38,
+    "population": 207447,
+    "density": 251,
+    "description": " Valverde, una de las 31 provincias de la República Dominicana, fue creada en el año 1959, y recibió su nombre en honor al militar y presidente dominicano José Desiderio Valverde quien fue una figura importante en la Guerra de la Restauración. La principal actividad económica de Valverde es la agricultura, cuyos productos principales son el plátano, el arroz y las verduras. La cría de ganado para la industría lechera se resalta en la parte sur de la provincia. Valverde cuenta con ciertos atractivos naturales y bellos paisajes del Valle del Cibao. Es conocido como la «Tierra de los Bellos Atardeceres» ya que es común ver un cielo «rojo» durante la puesta del sol. La provincia alberga los balnearios Brisas del río Mao, Boquerón y el charco de la Garza que son muy visitados por residentes en cualquier época del año. El Parque Amado Franco Bidó es un encantador parque urbano en el centro de Santa Cruz de Mao que lleva el nombre de un benefactor importante de esta localidad y está rodeado de casas antiguas.",
+    "imagePath": "valverde.jpg"
   }
 ]
