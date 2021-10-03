@@ -35,8 +35,8 @@
   },
   {
     "id": 4,
-    "name": "Dajab�n",
-    "city": "Dajab�n",
+    "name": "Dajabón",
+    "city": "Dajabón",
     "surface": 1020.73,
     "population": 67887,
     "density": 66,
@@ -68,7 +68,7 @@
   },
   {
     "id": 7,
-    "name": "El�as Pi�a",
+    "name": "Elías Piña",
     "city": "Comendador",
     "surface": 1426.20,
     "population": 70589,
@@ -167,7 +167,7 @@
   },
   {
     "id": 16,
-    "name": "Mar�a Trinidad S�nchez",
+    "name": "María Trinidad Sánchez",
     "city": "Nagua",
     "surface": 1271.71,
     "population": 140784,
@@ -178,7 +178,7 @@
   },
   {
     "id": 17,
-    "name": "Monse�or Nouel",
+    "name": "Monseñor Nouel",
     "city": "Bonao",
     "surface": 992.39,
     "population": 201474,
@@ -244,7 +244,7 @@
   },
   {
     "id": 23,
-    "name": "Saman�",
+    "name": "Samaná",
     "city": "Santa Bárbara de Samaná",
     "surface": 853.74,
     "population": 168265,
@@ -255,7 +255,7 @@
   },
   {
     "id": 24,
-    "name": "S�nchez Ram�rez",
+    "name": "Sánchez Ramírez",
     "city": "Cotuí",
     "surface": 1196.13,
     "population": 157457,
@@ -266,7 +266,7 @@
   },
   {
     "id": 25,
-    "name": "San Crist�bal",
+    "name": "San Cristóbal",
     "city": "San Cristóbal",
     "surface": 1265.77,
     "population": 859741,
@@ -299,7 +299,7 @@
   },
   {
     "id": 28,
-    "name": "San Pedro de Macor�s",
+    "name": "San Pedro de Macorís",
     "city": "San Pedro de Macoris",
     "surface": 1255.46,
     "population": 418850,
@@ -321,7 +321,7 @@
   },
   {
     "id": 30,
-    "name": "Santiago Rodr�guez",
+    "name": "Santiago Rodríguez",
     "city": "Sabaneta",
     "surface": 1111.14,
     "population": 164941,
