@@ -34,5 +34,7 @@ namespace MiDominicanaApi.Models
 
         [JsonProperty("imagePath")]
         public string ImagePath { get; set; }
+        [JsonProperty("cityImagePath")]
+        public string CityImagePath { get; set; }
     }
 }

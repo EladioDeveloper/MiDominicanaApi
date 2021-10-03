@@ -36,14 +36,27 @@ namespace MiDominicanaApi.Controllers
                 .ToList()
                 .ForEach(y => y.ImagePath = string.Concat(scheme, "://", host, $"/provinceImage/{y.ImagePath}"));
             
+            provinces
+                .Where(x => x.Code > 0)
+                .ToList()
+                .ForEach(y => y.CityImagePath = string.Concat(scheme, "://", host, $"/cityImage/{y.CityImagePath}"));
+            
             return Ok(provinces);
         }
 
         // GET api/<ProvinceController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            string fileName = String.Concat($"{Directory.GetCurrentDirectory()}", @"\Data\Province.json").Replace(@"\Controllers", "");
+            await using FileStream openStream = System.IO.File.OpenRead(fileName);
+            List<Province> provinces = JsonConvert.DeserializeObject<List<Province>>(System.IO.File.ReadAllText(fileName));
+            var province =  provinces.Where(x => x.Code == id).ToList(); 
+            var scheme = _env.HttpContext.Request.Scheme;
+            var host = _env.HttpContext.Request.Host.Value;
+            province[0].ImagePath = string.Concat(scheme, "://", host, $"/provinceImage/{province[0].ImagePath}");
+            province[0].CityImagePath = string.Concat(scheme, "://", host, $"/cityImage/{province[0].CityImagePath}");
+            return Ok(province[0]);
         }
 
        

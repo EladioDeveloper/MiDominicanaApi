@@ -35,8 +35,8 @@ namespace MiDominicanaApi.Services
         private async Task<string[]> RequestPage()
         {
             HtmlWeb htmlWeb = new HtmlWeb();
-            HtmlDocument htmlDoc = await htmlWeb
-                .LoadFromWebAsync(this._sectionUrlPage.Micm);
+            HtmlDocument htmlDoc = htmlWeb
+                .Load(this._sectionUrlPage.Micm);
             var regs = htmlDoc.DocumentNode
                 .SelectSingleNode(@"(//table[@class='art-data-table art-data-table-condensed'])[last()]");
 
